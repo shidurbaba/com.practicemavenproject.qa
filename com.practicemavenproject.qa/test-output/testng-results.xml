@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11776" started-at="2018-08-27T11:01:17Z" finished-at="2018-08-27T11:01:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11776" started-at="2018-08-27T11:01:17Z" finished-at="2018-08-27T11:01:29Z">
+      <class name="com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest@c038203]" name="setup" is-config="true" duration-ms="4222" started-at="2018-08-27T07:01:17Z" finished-at="2018-08-27T07:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="gotToUrl_1()[pri:0, instance:com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest@c038203]" name="gotToUrl_1" duration-ms="1440" started-at="2018-08-27T07:01:21Z" finished-at="2018-08-27T07:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotToUrl_1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest@c038203]" name="teardown" is-config="true" duration-ms="623" started-at="2018-08-27T07:01:23Z" finished-at="2018-08-27T07:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest@c038203]" name="setup" is-config="true" duration-ms="3488" started-at="2018-08-27T07:01:23Z" finished-at="2018-08-27T07:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="gotToUrl_2()[pri:0, instance:com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest@c038203]" name="gotToUrl_2" duration-ms="1368" started-at="2018-08-27T07:01:27Z" finished-at="2018-08-27T07:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotToUrl_2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest@c038203]" name="teardown" is-config="true" duration-ms="617" started-at="2018-08-27T07:01:28Z" finished-at="2018-08-27T07:01:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.practicemavenproject.qa.SixTeenPersonalitiesWelcomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
